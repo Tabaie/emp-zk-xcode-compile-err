@@ -242,9 +242,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				HEADER_SEARCH_PATHS = (
 					"/usr/local/opt/openssl@1.1/include",
-					"/Users/arya/cpp/emp/emp-tool",
-					"/Users/arya/cpp/emp/emp-zk",
-					"/Users/arya/cpp/emp/emp-ot",
+					/usr/local/include,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -256,9 +254,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				HEADER_SEARCH_PATHS = (
 					"/usr/local/opt/openssl@1.1/include",
-					"/Users/arya/cpp/emp/emp-tool",
-					"/Users/arya/cpp/emp/emp-zk",
-					"/Users/arya/cpp/emp/emp-ot",
+					/usr/local/include,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
